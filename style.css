@@ -1,0 +1,28 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.centerme {
+    text-align: center;
+}
+
+td {
+    border: none;
+}
+
+.leftme {
+    width: 80%;
+}
+
+.rightme {
+    width: 20%;
+    text-align: right;
+}
+
+ul.nxt {
+    list-style-type: circle;
+}
+
+ul.blnk {
+    list-style-type: none;
+}
